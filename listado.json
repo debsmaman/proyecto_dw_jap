@@ -1,0 +1,35 @@
+{
+    "nombre": "Listado panaderia",
+    "listado": [
+        {
+            "nombre": "pan de molde",
+            "descripcion": "pan de molde americano precortado",
+            "preciodesde": "$80",
+            "img": "https://www.annarecetasfaciles.com/files/pan-de-molde-casero-pan-lactal.jpg",
+        },
+        {
+            "nombre": "pan integral",
+            "descripcion": "Pan integral tipo casero hecho %100 con harina de trigo",
+            "preciodesde": "$115",
+            "img": "https://imag.bonviveur.es/articulos/hogaza-de-pan-casero.jpg",
+        },
+        {
+            "nombre": "masitas",
+            "descripcion": "Masitas dulces de todo tipo",
+            "preciodesde": "$60",
+            "img": "https://larecetade.com/wp-content/uploads/2020/08/masas-secas-masita-casera.jpg",
+        },
+        {
+            "nombre": "pan frances",
+            "descripcion": "Panes franceses hechos con métodos tradicionales",
+            "preciodesde": "$120",
+            "img": "https://www.annarecetasfaciles.com/files/baguettes-815x458.jpg",
+        },
+        {
+            "nombre": "donas",
+            "descripcion": "donas americanas glaseadas",
+            "preciodesde": "$50",
+            "img": "https://www.enmicocinahoy.cl/wp-content/uploads/2013/03/donas-gringas-3.jpg",
+        }
+    ]
+}
